@@ -1,0 +1,22 @@
+<resources>
+<string name="app_name">ExpandableListViewExample2</string>
+<string name="add">add</string>
+<string name="menu_settings">Setting</string>
+<string name="title_activity_main">MainActivity</string>
+<string name="product_hint">Enter Products for the Store</string>
+<string name="departament_store">My Departament Stores &#8230;</string>
+
+<string-array name="dept_array">
+    <item>Apparel</item>
+    <item>Beauty</item>
+    <item>Electronics</item>
+    <item>Grocery</item>
+    <item>Home Improvement</item>
+    <item>Jewelry</item>
+    <item>Pharmacy</item>
+
+</string-array>
+<color name="snow">#eee9e9</color>
+
+
+</resources>
